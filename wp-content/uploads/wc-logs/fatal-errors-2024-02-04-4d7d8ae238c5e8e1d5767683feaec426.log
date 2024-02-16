@@ -1,0 +1,8 @@
+2024-02-04T08:20:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\nakhrebazz\wp-content\plugins\mailpoet\vendor-prefixed\nesbot\carbon\src\Carbon\CarbonImmutable.php on line 11
+
+2024-02-04T08:20:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\nakhrebazz\wp-content\plugins\mailpoet\vendor-prefixed\doctrine\orm\lib\Doctrine\ORM\Query\AST\InputParameter.php on line 4
+
+2024-02-04T08:24:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\nakhrebazz\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductDetails.php on line 71
+
+2024-02-04T08:24:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\nakhrebazz\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\CheckoutTotalsBlock.php on line 15
+
